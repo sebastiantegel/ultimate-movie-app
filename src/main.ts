@@ -1,4 +1,4 @@
 import "./style.css";
 
-const c = 10;
-console.log(c);
+const x = 10;
+console.log(x);
