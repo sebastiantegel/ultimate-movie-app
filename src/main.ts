@@ -1,10 +1,7 @@
 import "./style.css";
 
-const x = 10;
-console.log(x);
+document.getElementById("loginform")?.addEventListener("submit", (e) => {
+  e.preventDefault();
 
-const y = 20;
-console.log(y);
-
-const z = 30;
-console.log(z);
+  // TODO: Login logic goes here
+});
